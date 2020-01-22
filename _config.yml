@@ -1,11 +1,12 @@
 title: Hector Espert
 email: hectorespertpardo@gmail.com
+description: Linuxero, no limpio Windows.
 
 remote_theme: thelehhman/plainwhite-jekyll
 
 plainwhite:
   name: Hector Espert
-  tagline: Developer
+  tagline: Linuxero, no limpio Windows.
   date_format: "%b %-d, %Y"
 
   social_links:
