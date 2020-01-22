@@ -13,3 +13,7 @@ plainwhite:
     twitter: blackleg
     github: hectorespert
     linkedIn: in/hectorespert
+
+  navigation:
+    - title: Boinc
+      url: "/boinc"
