@@ -8,6 +8,7 @@ plainwhite:
   name: Hector Espert
   tagline: Linuxero, no limpio Windows.
   date_format: "%b %-d, %Y"
+  portfolio_image:  "assets/portfolio.png"
 
   social_links:
     twitter: blackleg
