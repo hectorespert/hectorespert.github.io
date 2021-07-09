@@ -15,3 +15,7 @@ plainwhite:
     twitter: blackleg
     github: hectorespert
     linkedIn: in/hectorespert
+
+  navigation:
+    - title: Planted Pi
+      url: "/planted-pi"
