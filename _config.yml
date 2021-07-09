@@ -10,6 +10,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   portfolio_image:  "assets/portfolio.png"
   dark_mode: true
+  sitemap: true
 
   social_links:
     twitter: blackleg
