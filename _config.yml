@@ -1,8 +1,10 @@
+plugins: 
+  - jekyll-seo-tag
+remote_theme: samarsault/plainwhite-jekyll
+
 title: Hector Espert
 email: hectorespertpardo@gmail.com
 description: Linuxero, no limpio Windows.
-
-remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Hector Espert
@@ -23,5 +25,3 @@ plainwhite:
     - title: Singularity CE Debian
       url: "/singularity-ce"
       
- plugins:
-  - jekyll-seo-tag
