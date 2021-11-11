@@ -22,3 +22,6 @@ plainwhite:
       url: "/planted-pi"
     - title: Singularity CE Debian
       url: "/singularity-ce"
+      
+ plugins:
+  - jekyll-seo-tag
