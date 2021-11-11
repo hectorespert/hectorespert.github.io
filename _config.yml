@@ -20,3 +20,5 @@ plainwhite:
   navigation:
     - title: Planted Pi
       url: "/planted-pi"
+    - title: Singularity CE Debian
+      url: "/singularity-ce"
