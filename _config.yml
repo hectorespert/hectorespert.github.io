@@ -4,7 +4,7 @@ remote_theme: samarsault/plainwhite-jekyll
 
 title: Hector Espert
 email: hectorespertpardo@gmail.com
-description: Linuxero, no limpio Windows.
+description: No incluye montaje.
 
 plainwhite:
   name: Hector Espert
@@ -22,3 +22,7 @@ plainwhite:
   navigation:
     - title: Planted Pi
       url: "/planted-pi"
+    - title: python-oligo
+      url: "/python-oligo"
+    - title: Apache Netbeans Native Notifications
+      url: "https://github.com/hectorespert/nb-native-notifications"
