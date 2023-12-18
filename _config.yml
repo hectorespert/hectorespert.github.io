@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -6,5 +6,25 @@ plugins:
 title: Hector Espert
 email: hectorespertpardo@gmail.com
 description: No incluye montaje.
-logo: assets/portfolio.png
+
+plainwhite:
+  name: Hector Espert
+  tagline: No incluye montaje
+  date_format: "%b %-d, %Y"
+  portfolio_image:  "assets/portfolio.png"
+  dark_mode: true
+  sitemap: true
+
+  social_links:
+    twitter: hectorespert
+    github: hectorespert
+    linkedIn: in/hectorespert
+
+  #navigation:
+  #  - title: Planted Pi
+  #    url: "/planted-pi"
+  #  - title: python-oligo
+  #    url: "/python-oligo"
+  #  - title: Apache Netbeans Native Notifications
+  #    url: "https://github.com/hectorespert/nb-native-notifications"
 
