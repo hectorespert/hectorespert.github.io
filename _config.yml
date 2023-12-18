@@ -20,11 +20,13 @@ plainwhite:
     github: hectorespert
     linkedIn: in/hectorespert
 
-  #navigation:
-  #  - title: Planted Pi
-  #    url: "/planted-pi"
-  #  - title: python-oligo
-  #    url: "/python-oligo"
-  #  - title: Apache Netbeans Native Notifications
-  #    url: "https://github.com/hectorespert/nb-native-notifications"
+  navigation:
+    - title: HomeAssistant Boinc add-on
+      url: "https://github.com/hectorespert/boinc-addons"
+    - title: Som Energia Hass
+      url: https://github.com/hectorespert/som-energia-hass
+    - title: Asterisk Test Containers
+      url: "https://github.com/hectorespert/testcontainers-spring-boot-asterisk"
+    - title: Apache Netbeans Native Notifications
+      url: "https://github.com/hectorespert/nb-native-notifications"
 
