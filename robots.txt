@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://www.blackleg.es/sitemap.xml
+Sitemap: https://hectorespert.github.io/sitemap.xml
