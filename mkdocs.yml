@@ -2,3 +2,4 @@ site_name: Hector Espert
 site_url: https://hectorespert.github.io
 theme:
   name: material
+  logo: assets/portfolio.png
