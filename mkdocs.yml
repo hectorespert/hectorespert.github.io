@@ -1,5 +1,15 @@
 site_name: Hector Espert
+site_description: No incluye montaje
 site_url: https://hectorespert.github.io
+
 theme:
   name: material
   logo: assets/portfolio.png
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+nav:
+  - Welcome: index.md
