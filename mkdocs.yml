@@ -5,6 +5,7 @@ site_url: https://hectorespert.github.io
 theme:
   name: material
   logo: assets/portfolio.png
+  custom_dir: overrides
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
